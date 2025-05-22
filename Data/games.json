@@ -5,7 +5,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": true,
+        "timerEnabled": false,
         "Products": [
           {
             "Name": "Wyvern",
@@ -66,7 +66,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Milkyway",
@@ -188,7 +188,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Evicted Script",
@@ -249,7 +249,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Evicted TriggerBot",

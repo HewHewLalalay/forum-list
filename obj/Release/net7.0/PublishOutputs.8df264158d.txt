@@ -1,0 +1,12 @@
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\WebApplication1.exe
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\appsettings.Development.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\appsettings.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\Data\games.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\Data\raisedTimes.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\WebApplication1.dll
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\WebApplication1.deps.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\WebApplication1.runtimeconfig.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\WebApplication1.pdb
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\Microsoft.OpenApi.dll
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\publish\Newtonsoft.Json.dll

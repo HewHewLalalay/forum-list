@@ -1,0 +1,298 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background: #f5f7fa;
+    color: #333;
+}
+
+.section {
+    margin-bottom: 24px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    padding: 16px 20px;
+    border: 1px solid #d1d9e6;
+    display: flex;
+    flex-direction: column;
+}
+
+.game-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.game-title {
+    cursor: pointer;
+    background-color: #3b82f6;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 10px;
+    flex-grow: 1;
+    font-weight: 600;
+    font-size: 1.3rem;
+    user-select: none;
+    transition: background-color 0.3s ease;
+}
+
+    .game-title:hover {
+        background-color: #2563eb;
+    }
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-left: 16px;
+    min-width: 140px;
+}
+
+    .buttons button {
+        padding: 10px 14px;
+        background-color: #dbeafe;
+        color: #1e40af;
+        border: none;
+        border-radius: 14px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 14px;
+        box-shadow: 0 2px 6px rgba(30,64,175,0.2);
+        transition: background-color 0.3s ease;
+    }
+
+        .buttons button:hover {
+            background-color: #bfdbfe;
+        }
+
+    .buttons .duplicate-btn {
+        background-color: #fecdd3;
+        color: #9d174d;
+        box-shadow: 0 2px 6px rgba(157,23,77,0.2);
+    }
+
+        .buttons .duplicate-btn:hover {
+            background-color: #fda4af;
+        }
+
+.subsection {
+    display: none;
+    margin-left: 0;
+    flex-direction: column;
+    gap: 16px;
+}
+
+    .subsection.open {
+        display: flex;
+    }
+
+.forum {
+    border: 1.5px solid #cbd5e1;
+    border-radius: 12px;
+    padding: 14px 20px;
+    background: #f9fafb;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.forum-title-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Расстояние между названием и чекбоксом */
+    margin-bottom: 14px;
+}
+
+    /* Название форума */
+    .forum-title-containerforum-title-container h4 {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #1e293b;
+        margin: 0;
+    }
+
+/* Стили для чекбокса с текстом */
+.forum-timer-toggle {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+}
+
+
+.forum-product-actions button {
+    padding: 8px 14px;
+    background-color: #fecaca;
+    color: #b91c1c;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    box-shadow: 0 2px 6px rgba(185,28,28,0.2);
+    transition: background-color 0.3s ease;
+}
+
+    .forum-product-actions button:hover {
+        background-color: #f87171;
+        color: white;
+    }
+
+.product-title-container {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 12px 16px;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: box-shadow 0.3s ease;
+}
+
+    .product-title-container:hover {
+        box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+    }
+
+    .product-title-container a {
+        color: #2563eb;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+    }
+
+        .product-title-container a:hover {
+            text-decoration: underline;
+        }
+
+    .product-title-container button {
+        padding: 8px 14px;
+        background-color: #fecaca;
+        color: #b91c1c;
+        border: none;
+        border-radius: 14px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 13px;
+        box-shadow: 0 2px 6px rgba(185,28,28,0.2);
+        transition: background-color 0.3s ease;
+    }
+
+        .product-title-container button:hover {
+            background-color: #f87171;
+            color: white;
+        }
+
+.form-container {
+    margin-bottom: 24px;
+    background: white;
+    padding: 18px 24px;
+    border-radius: 14px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+    .form-container h3 {
+        margin-top: 0;
+        margin-bottom: 12px;
+        color: #334155;
+        font-weight: 700;
+    }
+
+    .form-container input,
+    .form-container button,
+    .form-container select {
+        padding: 10px 14px;
+        margin: 8px 0;
+        font-size: 16px;
+        border-radius: 14px;
+        border: 1.8px solid #cbd5e1;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(100,116,139,0.1);
+        transition: border-color 0.3s ease;
+        width: 100%;
+        max-width: 400px;
+    }
+
+        .form-container input:focus,
+        .form-container select:focus {
+            border-color: #3b82f6;
+        }
+
+    .form-container button {
+        background-color: #3b82f6;
+        color: white;
+        font-weight: 700;
+        cursor: pointer;
+        max-width: 400px;
+        width: 100%;
+        box-shadow: 0 4px 10px rgba(59,130,246,0.3);
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .form-container button:hover {
+            background-color: #2563eb;
+        }
+
+.forum-timer-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    user-select: none;
+    color: #1e293b;
+}
+
+    .forum-timer-toggle input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+    }
+
+/* --- Кнопка "Я поднял эту тему" уже есть, но добавим отступ справа --- */
+.forum-product-actions button.raise-topic-btn {
+    margin-left: 12px;
+}
+
+/* --- Надпись с таймером справа от кнопки --- */
+.timer-text {
+    margin-left: 12px;
+    font-weight: 600;
+    font-size: 13px;
+    min-width: 160px;
+    display: inline-block;
+}
+
+/* Цвета для статусов задаются динамически через JS (красный, зеленый) */
+
+/* --- Чтобы в мобильных/узких экранах не ломалось --- */
+@media (max-width: 600px) {
+    .product-title-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .timer-text {
+        margin-left: 0;
+    }
+}
+
+.delete-forum-btn {
+    margin-left: auto;
+    display: block; /* или inline-block с дополнением, но block надежнее для margin-left */
+    margin-top: 8px;
+    padding: 6px 12px;
+    font-size: 0.9rem;
+    background-color: #e53e3e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .delete-forum-btn:hover {
+        background-color: #c53030; /* Темный красный при наведении */
+    }

@@ -1,0 +1,171 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Games",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "AddForum",
+    "RelativePath": "api/Games/forum",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApplication1.Models.ForumAddModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "DeleteForum",
+    "RelativePath": "api/Games/forum",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "forumName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "AddGame",
+    "RelativePath": "api/Games/game",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "game",
+        "Type": "WebApplication1.Models.Game",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "EditGame",
+    "RelativePath": "api/Games/game",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedGame",
+        "Type": "WebApplication1.Models.Game",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "DeleteGame",
+    "RelativePath": "api/Games/game/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Games/product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApplication1.Models.ProductAddModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Games/product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "forumName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "productName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "RaiseTopic",
+    "RelativePath": "api/Games/raiseTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApplication1.Controllers.RaiseTopicModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "SetTimerEnabled",
+    "RelativePath": "api/Games/setTimerEnabled",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApplication1.Controllers.TimerEnabledModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

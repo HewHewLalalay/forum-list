@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Форумы по играм";
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="form-container">
+    <h3>Добавить игру</h3>
+    <input type="text" id="gameName" placeholder="Введите название игры" />
+    <button type="button" onclick="addGame()">Добавить игру</button>
+</div>
+
+<div class="form-container">
+    <h3>Добавить форум в игру</h3>
+    <select id="gameSelect">
+        <option value="">Выберите игру</option>
+    </select>
+    <input type="text" id="forumName" placeholder="Введите название форума" />
+    <button type="button" onclick="addForum()">Добавить форум</button>
+</div>
+
+<div class="form-container">
+    <h3>Добавить продукт в форум</h3>
+    <select id="productGameSelect">
+        <option value="">Выберите игру</option>
+    </select>
+    <select id="productForumSelect">
+        <option value="">Выберите форум</option>
+    </select>
+    <input type="text" id="productName" placeholder="Введите название продукта" />
+    <input type="url" id="productLink" placeholder="Введите ссылку на продукт" />
+    <button type="button" onclick="addProduct()">Добавить продукт</button>
+</div>
+
+<!-- Здесь будет рендериться список игр, форумов, продуктов с новыми элементами -->
+<div id="gamesSection"></div>
+
+<script src="~/js/site.js"></script>

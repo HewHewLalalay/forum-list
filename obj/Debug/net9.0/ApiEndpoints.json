@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "GetGames",
+    "RelativePath": "api/Games",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "SaveGames",
+    "RelativePath": "api/Games",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "games",
+        "Type": "System.Collections.Generic.List\u00601[[WebApplication1.Models.Game, WebApplication1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

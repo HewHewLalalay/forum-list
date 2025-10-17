@@ -12,8 +12,12 @@
             "Link": "https://www.elitepvpers.com/forum/overwatch-trading/4788781-wyvern-aimbot-esp-triggerbot-auto-melee-skill-assist.html"
           },
           {
-            "Name": "Noble",
-            "Link": "https://www.elitepvpers.com/forum/overwatch-trading/5095853-noble-aimbot-esp-auto-melee-prediction-overwatch-2-hack.html"
+            "Name": "Xenon",
+            "Link": "https://www.elitepvpers.com/forum/overwatch-trading/5308968-xenon-external-cheat-overwatch-2-backtrack-auto-melee-streamproof.html"
+          },
+          {
+            "Name": "Oreo",
+            "Link": "https://www.elitepvpers.com/forum/overwatch-trading/5323931-oreo-overwatch-2-aimbot-hero-scripts-esp-auto-skills.html"
           }
         ]
       },
@@ -27,8 +31,12 @@
             "Link": "https://www.ownedcore.com/forums/mmo-trading-market/overwatch-buy-sell-trade/916902-wyvern-aimbot-esp-triggerbot-auto-melee-skill-assist.html"
           },
           {
-            "Name": "Noble",
-            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/overwatch-buy-sell-trade/981251-noble-aimbot-esp-auto-melee-prediction-overwatch-2-hack.html"
+            "Name": "Xenon",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/overwatch-buy-sell-trade/1092484-xenon-external-cheat-overwatch-2-backtrack-auto-melee-streamproof.html"
+          },
+          {
+            "Name": "Oreo",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/overwatch-2-buy-sell-trade/1100012-oreo-overwatch-2-aimbot-hero-scripts-esp-auto-skills.html"
           }
         ]
       },
@@ -42,8 +50,12 @@
             "Link": "https://yougame.biz/threads/151010/"
           },
           {
-            "Name": "Noble",
-            "Link": "https://yougame.biz/threads/277659/"
+            "Name": "Xenon",
+            "Link": "https://yougame.biz/threads/356270/"
+          },
+          {
+            "Name": "Oreo",
+            "Link": "https://yougame.biz/threads/362432/"
           }
         ]
       },
@@ -66,12 +78,8 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
-          {
-            "Name": "Milkyway",
-            "Link": "https://www.elitepvpers.com/forum/marvel-rivals-trading/5296908-milkyway-aimbot-esp-prediction-magic-bullets-fast-reload.html"
-          },
           {
             "Name": "Klar",
             "Link": "https://www.elitepvpers.com/forum/marvel-rivals-trading/5297619-klar-aimbot-chams-no-spread-prediction-level-up-your-game.html"
@@ -92,10 +100,6 @@
             "Link": "https://www.ownedcore.com/forums/fps/marvel-rivals/marvel-rivals-buy-sell-trade/1090022-klar-aimbot-chams-no-spread-prediction-level-up-your-game.html"
           },
           {
-            "Name": "Milkyway",
-            "Link": "https://www.ownedcore.com/forums/fps/marvel-rivals/marvel-rivals-buy-sell-trade/1089894-milkyway-marvel-rivals-aimbot-magic-bullets-esp-no-spread.html"
-          },
-          {
             "Name": "Eternal",
             "Link": "https://www.ownedcore.com/forums/fps/marvel-rivals/marvel-rivals-buy-sell-trade/1090431-marvel-rivals-eternal-aimbot-backtrack-flickbot-esp-auto-skill.html"
           }
@@ -109,10 +113,6 @@
           {
             "Name": "Klar",
             "Link": "https://yougame.biz/threads/350630/"
-          },
-          {
-            "Name": "Milkyway",
-            "Link": "https://yougame.biz/threads/350148/"
           },
           {
             "Name": "Eternal",
@@ -139,11 +139,19 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Sapphire",
             "Link": "https://www.elitepvpers.com/forum/apex-legends-trading/5298411-sapphire-apex-legends-aimbot-esp-radar-triggerbot-streamproof.html"
+          },
+          {
+            "Name": "Unnamed Lite",
+            "Link": "https://www.elitepvpers.com/forum/apex-legends-trading/5322884-unnamed-lite-apex-legends-glow-auto-super-glide-auto-tap-strafe.html"
+          },
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://www.elitepvpers.com/forum/apex-legends-trading/5324108-unnamed-full-apex-legends-aimbot-glow-items-movement.html"
           }
         ]
       },
@@ -155,6 +163,14 @@
           {
             "Name": "Sapphire",
             "Link": "https://www.ownedcore.com/forums/mmo-trading-market/apex-legends-buy-sell-trade/1090141-sapphire-apex-legends-aimbot-esp-radar-triggerbot-streamproof.html"
+          },
+          {
+            "Name": "Unnamed Lite",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/apex-legends-buy-sell-trade/1099808-unnamed-lite-apex-legends-glow-auto-super-glide-auto-tap-strafe.html"
+          },
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/apex-legends-buy-sell-trade/1100062-unnamed-full-apex-legends-aimbot-glow-items-movement.html"
           }
         ]
       },
@@ -166,6 +182,10 @@
           {
             "Name": "Sapphire",
             "Link": "https://yougame.biz/threads/350967/"
+          },
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://yougame.biz/threads/362480/"
           }
         ]
       },
@@ -188,7 +208,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Evicted Script",
@@ -249,7 +269,7 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Evicted TriggerBot",
@@ -258,6 +278,22 @@
           {
             "Name": "Unnamed",
             "Link": "https://www.elitepvpers.com/forum/valorant-trading/5297980-unnamed-aimbot-esp-lineup-helper-unique-build-dominate-now.html"
+          },
+          {
+            "Name": "Sapphire ColorBot",
+            "Link": "https://www.elitepvpers.com/forum/valorant-trading/5309351-colorbot-valorant-3-years-undetected-aimbot-triggerbot.html"
+          },
+          {
+            "Name": "ModStation",
+            "Link": "https://www.elitepvpers.com/forum/valorant-trading/5317206-delicious-cheat-valorant-modstation-aimbot-esp-radar.html"
+          },
+          {
+            "Name": "Unnamed ColorBot",
+            "Link": "https://www.elitepvpers.com/forum/valorant-trading/5322112-unnamed-colorbot-aimbot-hvci-off-win-10-11-100-undetected.html"
+          },
+          {
+            "Name": "Sapphire External",
+            "Link": "https://www.elitepvpers.com/forum/valorant-trading/5322991-external-cheat-valorant-aimbot-visuals-lineup-helper.html"
           }
         ]
       },
@@ -273,6 +309,22 @@
           {
             "Name": "Unnamed",
             "Link": "https://www.ownedcore.com/forums/mmo-trading-market/valorant-buy-sell-trade/1090066-unnamed-aimbot-esp-lineup-helper-unique-build-dominate-now.html"
+          },
+          {
+            "Name": "Sapphire ColorBot",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/valorant-buy-sell-trade/1092580-colorbot-valorant-3-years-undetected-aimbot-triggerbot.html"
+          },
+          {
+            "Name": "ModStation",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/valorant-buy-sell-trade/1097862-delicious-cheat-valorant-modstation-aimbot-esp-radar.html"
+          },
+          {
+            "Name": "Unnamed ColorBot",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/valorant-buy-sell-trade/1099610-unnamed-colorbot-aimbot-hvci-off-win-10-11-100-undetected.html"
+          },
+          {
+            "Name": "Sapphire External",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/valorant-buy-sell-trade/1099854-external-cheat-valorant-aimbot-visuals-lineup-helper.html"
           }
         ]
       },
@@ -288,6 +340,14 @@
           {
             "Name": "Unnamed",
             "Link": "https://yougame.biz/threads/350756/"
+          },
+          {
+            "Name": "Sapphire ColorBot",
+            "Link": "https://yougame.biz/threads/356425/"
+          },
+          {
+            "Name": "ModStation",
+            "Link": "https://yougame.biz/threads/360080/"
           }
         ]
       },
@@ -310,11 +370,15 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
+        "timerEnabled": true,
         "Products": [
           {
             "Name": "Sapphire",
             "Link": "https://www.elitepvpers.com/forum/playerunknowns-battlegrounds-trading/5298894-sapphire-aimbot-esp-radar-streamproof-win-every-match.html"
+          },
+          {
+            "Name": "Evicted Script",
+            "Link": "https://www.elitepvpers.com/forum/playerunknowns-battlegrounds-trading/5322176-script-pubg-no-recoil-rapid-fire-lag-switch-safe-easy.html"
           }
         ]
       },
@@ -325,7 +389,11 @@
         "Products": [
           {
             "Name": "Sapphire",
-            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/playerunknowns-battlegrounds-buy-sell-trade/1090285-sapphire-external-pubg-aimbot-esp-radar-streamproof-dominate-now.html"
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/playerunknowns-battlegrounds-buy-sell-trade/1093840-sapphire-external-pubg-aimbot-esp-radar-streamproof-dominate-now.html"
+          },
+          {
+            "Name": "Evicted Script",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/playerunknowns-battlegrounds-buy-sell-trade/1099634-script-pubg-no-recoil-rapid-fire-lag-switch-safe-easy.html"
           }
         ]
       },
@@ -337,6 +405,10 @@
           {
             "Name": "Sapphire",
             "Link": "https://yougame.biz/threads/351168/"
+          },
+          {
+            "Name": "Evicted Script",
+            "Link": "https://yougame.biz/threads/361763/"
           }
         ]
       },
@@ -359,14 +431,304 @@
       {
         "Name": "EPVP",
         "Link": "https://www.epvp.com",
-        "timerEnabled": false,
-        "Products": []
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.elitepvpers.com/forum/fortnite-trading/5301350-sapphire-fortnite-aimbot-radar-esp-triggerbot-streamproof.html"
+          }
+        ]
       },
       {
         "Name": "Ownedcore",
         "Link": "https://www.ownedcore.com",
         "timerEnabled": false,
-        "Products": []
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/fortnite-buy-sell-trade/1090652-sapphire-fortnite-aimbot-radar-esp-triggerbot-streamproof.html"
+          }
+        ]
+      },
+      {
+        "Name": "Yougame",
+        "Link": "https://www.yougame.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://yougame.biz/threads/352332/"
+          }
+        ]
+      },
+      {
+        "Name": "Lolzteam",
+        "Link": "https://www.lolzteam.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/8743563/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CoD",
+    "Forums": [
+      {
+        "Name": "EPVP",
+        "Link": "https://www.epvp.com",
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.elitepvpers.com/forum/call-duty-trading/5309292-sapphire-cheat-cod-bo6-warzone-aimbot-esp-radar-items.html"
+          }
+        ]
+      },
+      {
+        "Name": "Ownedcore",
+        "Link": "https://www.ownedcore.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire (non main)",
+            "Link": "https://www.ownedcore.com/forums/fps/call-of-duty/1092569-sapphire-cheat-cod-bo6-warzone-aimbot-esp-radar-items.html"
+          },
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.ownedcore.com/forums/fps/call-of-duty/call-of-duty-cheats-glitches-hacks-exploits/1092568-sapphire-cheat-cod-bo6-warzone-aimbot-esp-radar-items.html"
+          }
+        ]
+      },
+      {
+        "Name": "Yougame",
+        "Link": "https://www.yougame.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire (Warzone)",
+            "Link": "https://yougame.biz/threads/356344/"
+          },
+          {
+            "Name": "Sapphire (BO6)",
+            "Link": "https://yougame.biz/threads/356345/"
+          },
+          {
+            "Name": "Sapphire (BO7)",
+            "Link": "https://yougame.biz/threads/361941/"
+          }
+        ]
+      },
+      {
+        "Name": "Lolzteam",
+        "Link": "https://www.lolzteam.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/8948755/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Delta Force",
+    "Forums": [
+      {
+        "Name": "EPVP",
+        "Link": "https://www.epvp.com",
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5312399-unnamed-full-delta-force-aimbot-player-loot-esp-chams-ud.html"
+          },
+          {
+            "Name": "Unnamed Chams",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5312402-undetected-chams-delta-force-visible-check-reports-anti-cheat-bypass.html"
+          },
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5312411-sapphire-delta-force-aimbot-triggerbot-esp-radar.html"
+          },
+          {
+            "Name": "Sapphire Dom",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5323037-saph-dom-delta-force-aimbot-enemy-loot-esp-screenshot-bypass.html"
+          },
+          {
+            "Name": "Sapphire Aim Only",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5323159-aimbot-delta-force-fov-smooth-any-bone-controller-support.html"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://www.elitepvpers.com/forum/delta-force-hawk-ops-trading/5324441-ancient-delta-force-aimbot-visuals-configs-mis.html"
+          }
+        ]
+      },
+      {
+        "Name": "Ownedcore",
+        "Link": "https://www.ownedcore.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1094084-unnamed-full-delta-force-aimbot-player-loot-esp-chams-ud.html"
+          },
+          {
+            "Name": "Unnamed Chams",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1094089-undetected-chams-delta-force-visible-check-reports-anti-cheat-bypass.html"
+          },
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1094098-sapphire-delta-force-aimbot-triggerbot-esp-radar.html"
+          },
+          {
+            "Name": "Sapphire Dom",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1099858-saph-dom-delta-force-aimbot-enemy-loot-esp-screenshot-bypass.html"
+          },
+          {
+            "Name": "Sapphire Aim Only",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1099893-aimbot-delta-force-fov-smooth-any-bone-controller-support.html"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1100157-ancient-delta-force-aimbot-visuals-configs-mis.html"
+          }
+        ]
+      },
+      {
+        "Name": "Yougame",
+        "Link": "https://www.yougame.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Unnamed Full",
+            "Link": "https://yougame.biz/threads/357735/"
+          },
+          {
+            "Name": "Unnamed Chams",
+            "Link": "https://yougame.biz/threads/357741/"
+          },
+          {
+            "Name": "Sapphire",
+            "Link": "https://yougame.biz/threads/357748/"
+          },
+          {
+            "Name": "Sapphire Dom",
+            "Link": "https://yougame.biz/threads/362035/"
+          },
+          {
+            "Name": "Sapphire Aim Only",
+            "Link": "https://yougame.biz/threads/362096/"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://yougame.biz/threads/362588/"
+          }
+        ]
+      },
+      {
+        "Name": "Lolzteam",
+        "Link": "https://www.lolzteam.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/9034837/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Battlefield",
+    "Forums": [
+      {
+        "Name": "EPVP",
+        "Link": "https://www.epvp.com",
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Fecurity",
+            "Link": "https://www.elitepvpers.com/forum/battlefield-trading/5313062-fecurity-battlefield-6-5-1-2042-silent-aimbot-esp.html"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://www.elitepvpers.com/forum/battlefield-trading/5313541-battlefield-6-cheat-spoofer-ancient-aimbot-esp-prediction.html"
+          }
+        ]
+      },
+      {
+        "Name": "Ownedcore",
+        "Link": "https://www.ownedcore.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Fecurity",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/battlefield-buy-sell-trade/1094473-fecurity-battlefield-6-5-1-2042-silent-aimbot-esp.html"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/battlefield-buy-sell-trade/1094815-battlefield-6-cheat-spoofer-ancient-aimbot-esp-prediction.html"
+          }
+        ]
+      },
+      {
+        "Name": "Yougame",
+        "Link": "https://www.yougame.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Fecurity",
+            "Link": "https://yougame.biz/threads/358053/"
+          },
+          {
+            "Name": "Ancient",
+            "Link": "https://yougame.biz/threads/358286/"
+          }
+        ]
+      },
+      {
+        "Name": "Lolzteam",
+        "Link": "https://www.lolzteam.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/9050092/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Arena Breakout: Infinite",
+    "Forums": [
+      {
+        "Name": "EPVP",
+        "Link": "https://www.epvp.com",
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Sapphire Aim Only",
+            "Link": "https://www.elitepvpers.com/forum/arena-breakout-infinite-trading/5323289-aimbot-arena-breakout-fov-smooth-target-bone-keybind.html"
+          }
+        ]
+      },
+      {
+        "Name": "Ownedcore",
+        "Link": "https://www.ownedcore.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire Aim Only",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1099907-aimbot-arena-breakout-fov-smooth-target-bone-keybind.html"
+          }
+        ]
       },
       {
         "Name": "Yougame",
@@ -378,7 +740,61 @@
         "Name": "Lolzteam",
         "Link": "https://www.lolzteam.com",
         "timerEnabled": false,
-        "Products": []
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/9113914/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Rainbow Six Siege",
+    "Forums": [
+      {
+        "Name": "EPVP",
+        "Link": "https://www.epvp.com",
+        "timerEnabled": true,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.elitepvpers.com/forum/rainbow-six-siege-trading/5323357-undetected-cheat-r6s-aimbot-visuals-radar-windows-10-11-a.html"
+          }
+        ]
+      },
+      {
+        "Name": "Ownedcore",
+        "Link": "https://www.ownedcore.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://www.ownedcore.com/forums/mmo-trading-market/fps-buy-sell-trade/1099917-undetected-cheat-r6s-aimbot-visuals-radar-windows-10-11-a.html"
+          }
+        ]
+      },
+      {
+        "Name": "Yougame",
+        "Link": "https://www.yougame.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "Sapphire",
+            "Link": "https://yougame.biz/threads/362230/"
+          }
+        ]
+      },
+      {
+        "Name": "Lolzteam",
+        "Link": "https://www.lolzteam.com",
+        "timerEnabled": false,
+        "Products": [
+          {
+            "Name": "ALL",
+            "Link": "https://lolz.live/threads/9257415/"
+          }
+        ]
       }
     ]
   }

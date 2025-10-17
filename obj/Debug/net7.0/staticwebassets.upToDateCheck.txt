@@ -1,6 +1,5 @@
-wwwroot\css\site.css
-wwwroot\favicon.ico
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\favicon.ico
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
@@ -54,7 +53,8 @@ wwwroot\lib\jquery-validation\dist\jquery.validate.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery\dist\jquery.js
-wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\css\site.css
 wwwroot\js\site.js

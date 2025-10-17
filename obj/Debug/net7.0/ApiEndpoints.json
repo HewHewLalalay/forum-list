@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "WebApplication1.Controllers.GamesController",
+    "Method": "ClearRaisedTimesForForum",
+    "RelativePath": "api/Games/clearRaisedTimesForForum",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApplication1.Controllers.TimerEnabledModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.GamesController",
     "Method": "AddForum",
     "RelativePath": "api/Games/forum",
     "HttpMethod": "POST",

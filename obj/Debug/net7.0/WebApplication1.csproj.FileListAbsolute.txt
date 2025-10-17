@@ -32,12 +32,5 @@ C:\Users\kosty\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\Web
 C:\Users\kosty\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
 C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\kosty\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\web.config
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\appsettings.Development.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\appsettings.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\Data\games.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\WebApplication1.deps.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\WebApplication1.runtimeconfig.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\WebApplication1.staticwebassets.endpoints.json
 C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Data\raisedTimes.json
-C:\Users\kosty\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\publish\Data\raisedTimes.json
+C:\Users\kosty\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.sourcelink.json
